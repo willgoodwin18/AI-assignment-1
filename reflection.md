@@ -1,0 +1,2 @@
+# My github reflection
+Overall I am still very overwhelmed by Github. I need to practice the basic functions of repositories and maybe read more about them over the weekend. It will take some time to get used to each feature, but I think Youtube videos can help me better understand. I also used Chatgpt to lay out and study some of the commands I forgot from CSO-1. 
